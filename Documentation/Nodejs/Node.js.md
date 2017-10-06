@@ -13,5 +13,8 @@
 * [W3schools Guides](https://www.w3schools.com/nodejs/default.asp)
 * [OpenClassrooms Tutorial](https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js)
 
+### Packages
+
+* [Node Packaged Modules](https://www.npmjs.com/)
 ### Security
 * [NodeSecurity](https://nodesecurity.io/)
