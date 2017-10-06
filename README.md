@@ -1,7 +1,7 @@
 # Projet_IUT
 
 ## 1. ALARME CONNECTÉE
-Proposé par : Pierre-André GUENEGO.
+Proposé par : Pierre-André GUENEGO
 #### Description du projet.
 Basé sur un Arduino équipé d’un capteur de mouvement et d’une interface Ethernet,
 l’alarme doit envoyer un SMS ou un mail en cas de détection de mouvement. Elle peut être
