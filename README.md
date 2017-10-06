@@ -12,8 +12,8 @@ gérer le poids de l’interface web plusieurs technique seront explorées : usa
 hébergé sur le web (jquery-mobile,...), extension de la mémoire par carte SD, hébergement
 du serveur hors de l’Arduino mais communiquant avec (Raspberry Pi, WampServer, serveur
 en ligne gratuit,...). L’usage de NodeJS et des websockets pourra apporter une
-communication bidirectionnelle synchrone. Une attention particulière sera apportée à la
-sécurité de fonctionnement. Des notions de base en électronique et en manipulation seront
+communication bidirectionnelle synchrone. **Une attention particulière sera apportée à la
+sécurité de fonctionnement**. Des notions de base en électronique et en manipulation seront
 nécessaires.
 
 Nombreux prolongements possibles : piloter d'autres actionneurs (lampe, volet...), ajouter
