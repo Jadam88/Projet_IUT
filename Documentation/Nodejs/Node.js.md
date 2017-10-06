@@ -5,10 +5,6 @@
 * [Official Website Download](https://nodejs.org/en/)
 * [OpenClassrooms Download](https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js/installer-node-js)
 
-### Useful Tools
-
-* [PM2](http://pm2.keymetrics.io/)
-
 ### Guides
 
 * [GitHub Nodejs](https://github.com/nodejs/node/wiki)
