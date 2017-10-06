@@ -15,12 +15,15 @@ en ligne gratuit,...). L’usage de NodeJS et des websockets pourra apporter une
 communication bidirectionnelle synchrone. Une attention particulière sera apportée à la
 sécurité de fonctionnement. Des notions de base en électronique et en manipulation seront
 nécessaires.
+
 Nombreux prolongements possibles : piloter d'autres actionneurs (lampe, volet...), ajouter
 une caméra pour voir l'intrus, piloter un robot mobile, wifi.
-Objectifs à atteindre
+
+#### Objectifs à atteindre
 Réaliser le programme Arduino, mettre en œuvre.
 Réalisation éventuelle de l’interface de gestion sur un serveur LAMP ou autre
-Outils à utiliser
+
+#### Outils à utiliser
 * Editeur de code,
 * IDE Arduino
 * Arduino Leonardo
