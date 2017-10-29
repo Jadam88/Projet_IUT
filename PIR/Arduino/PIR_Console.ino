@@ -1,6 +1,6 @@
-#include <Bridge.h>//On démarre la librarie Bridge pour communiquer entre Linino et atmega32u4
-#include <Console.h>
-#include <Process.h>
+#include <Bridge.h>//On inclut la librarie Bridge pour communiquer entre Linino et atmega32u4
+#include <Console.h>//On inclut la librairie Console pour communiquer par la couche reseau 
+#include <Process.h>//On inclut la librairie Process pour executer des commandes du cote linux de la carte
 
 int PIR = 2;               // Entree sur laquelle est connecte le capteur
 int Etat_PIR = LOW;             // Au debut le capteur ne detecte pas de mouvement 
